@@ -1,3 +1,5 @@
-Python
-Streamlit
-vscode
+streamlit
+pandas
+numpy
+python
+
