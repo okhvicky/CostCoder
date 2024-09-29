@@ -24,7 +24,7 @@ st.title("Cost-Coder")
 
 #info about tool
 
-st.title('Make your product cost secret.')
+st.title('Make Your Product Cost A Secret.')
 
 
 # Initialize session state to store the multiplier
